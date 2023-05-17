@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Escribir un post"
+title:  "Escribir un post."
 date:   2023-04-26 12:31:58 +0200
 categories: Ninguna
 author: Fernando
